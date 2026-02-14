@@ -1,6 +1,6 @@
 # TaskFlow - Task Management
 
-A professional task management app with workspace organization and priority tracking.
+A task management app with workspace organization and priority tracking.
 
 ## Features
 
